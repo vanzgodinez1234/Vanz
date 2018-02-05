@@ -65,6 +65,11 @@
  	  	    		<img src="../images/crimper.jpg">
  	  	        	<p> 
  	  	        	    A crimping tool is a device used to conjoin two pieces of metal by deforming one or both of them in a way that causes them to hold each other. The result of the tool's work is called a crimp. A good example of crimping is the process of affixing a connector to the end of a cable. For instance, network cables and phone cables are created using a crimping tool (shown below) to join the RJ-45 and RJ-11 connectors to the both ends of either phone or CAT5 cable.  
+					</p>
+					<h3>Network card</h3>
+ 	  	    		<img src="../images/network card.jpg">
+ 	  	        	<p> 
+ 	  	        	    Network cards also known as Network Interface Cards (NICs) are hardware devices that connect a computer with the network. They are installed on the mother board. They are responsible for developing a physical connection between the network and the computer. Computer data is translated into electrical signals send to the network via Network Interface Cards.
  	  	    		</p>
  	  	        </div>
  	  	 </div>
