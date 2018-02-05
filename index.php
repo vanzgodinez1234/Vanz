@@ -71,6 +71,12 @@
  	  	        	<p> 
  	  	        	    Network cards also known as Network Interface Cards (NICs) are hardware devices that connect a computer with the network. They are installed on the mother board. They are responsible for developing a physical connection between the network and the computer. Computer data is translated into electrical signals send to the network via Network Interface Cards.
  	  	    		</p>
+					
+					<h3>Bridge</h3>
+ 	  	    		<img src="../images/bridge.jpg">
+ 	  	        	<p> 
+ 	  	        	   A bridge is a computer networking device that builds the connection with the other bridge networks which use the same protocol. It works at the Data Link layer of the OSI Model and connects the different networks together and develops communication between them. It connects two local-area networks; two physical LANs into larger logical LAN or two segments of the same LAN that use the same protocol.
+ 	  	    		</p>
  	  	        </div>
  	  	 </div>
  	  </div>
